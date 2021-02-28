@@ -224,6 +224,7 @@ footer {
   /* text-align: center; */
   letter-spacing: 0.03em;
   cursor: pointer;
+  background-color: #f5f4fa;
 }
 
 .filter-button:focus,
