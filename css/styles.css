@@ -222,6 +222,7 @@ footer {
   line-height: 26px;
   /* text-align: center; */
   letter-spacing: 0.03em;
+  cursor: pointer;
 }
 
 .filter-button:focus,
