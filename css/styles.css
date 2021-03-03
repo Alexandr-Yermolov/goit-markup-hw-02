@@ -121,8 +121,6 @@ header {
   background-color: var(--accent-color);
   color: rgb(255, 255, 255);
   border-radius: 4px;
-
-  /* color: #FFFFFF; */
 }
 
 /* .modal-btn:hover,
@@ -142,7 +140,6 @@ header {
   line-height: 1.14;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-
   color: var(--main-color);
 }
 
@@ -152,7 +149,6 @@ header {
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
-
   color: rgb(117, 117, 117);
 }
 /* ============= END FEATURES ============= */
@@ -171,7 +167,6 @@ header {
   line-height: 1.19;
   /* text-align: center; */
   letter-spacing: 0.03em;
-
   color: var(--main-color);
 }
 
@@ -181,7 +176,6 @@ header {
   font-size: 16px;
   line-height: 1.19;
   letter-spacing: 0.03em;
-
   color: rgb(117, 117, 117);
 }
 /* ============= END TEAM ============= */
@@ -197,7 +191,6 @@ footer {
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
-
   color: rgb(255, 255, 255);
 }
 
@@ -228,8 +221,8 @@ footer {
   /* text-align: center; */
   letter-spacing: 0.03em;
   cursor: pointer;
-  background-color: var(--accent-color);
-  color: rgb(255, 255, 255);
+  background-color: rgb(245, 244, 250);
+  color: rgb(33, 33, 33);
   border: 0;
   border-radius: 4px;
 }
@@ -240,6 +233,11 @@ footer {
   color: rgb(255, 255, 255);
 } */
 
+/*---- separately set the color of the button "все" ---- */
+.filter-list-button-vse {
+  background-color: var(--accent-color);
+  color: rgb(255, 255, 255);
+}
 /* ============= END FILTER BUTTON ============= */
 
 /* ============= PROJECT ============= */
@@ -250,7 +248,6 @@ footer {
   font-size: 18px;
   line-height: 2;
   letter-spacing: 0.06em;
-
   color: var(--main-color);
 }
 
@@ -260,7 +257,6 @@ footer {
   font-size: 16px;
   line-height: 1.88;
   letter-spacing: 0.03em;
-
   color: rgb(117, 117, 117);
 }
 
